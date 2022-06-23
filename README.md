@@ -4,7 +4,7 @@ I'm a software developer with expertise in:
 - web services development;
 - linux system administration;
 - CICD infrastructures;
-- electronic device development using STM32 and AVR microcontrollers.
+- electronic device development using ESP32, STM32, and AVR microcontrollers.
 
 I am an owner of:
 - https://djbook.ru, the russian oldest portal for Django developers;
